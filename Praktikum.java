@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class Praktikum {
     public static void main(String[] args) {
         double[] expenses = new double[7]; // Должно стать полем нового класса
